@@ -138,3 +138,18 @@ Thanks to [Dr. Sabia Abidi](https://profiles.rice.edu/faculty/sabia-abidi) of Ri
 <hr>
 <h6><i> Updated by Melanie Laporte, 20240512</i></h6>
 
+## Moonrat Volunteer Opportunities
+
+Interested in getting involved? The MoonratII team is looking for volunteers with relevant skills and experience with:
+
+-Electronic circuitry
+-The Arduino platform
+-Building or creating hands-on technology
+
+However, Public Invention also fosters learning and professional development. Reach out to our team if your are eager to learn more about relevant key areas, including:
+
+- Microbiology
+- Basic microelectronics
+- Optics and microscopy
+
+Having relevant experience with any of these areas is also always a bonus. If interested, reach out to Miriam Castillo at [volunteer@pubinv.org](volunteer@pubinv.org) to learn more. 
